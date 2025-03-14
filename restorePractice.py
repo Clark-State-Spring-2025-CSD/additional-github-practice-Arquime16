@@ -2,4 +2,3 @@
 #This file soley exists for you to remove it, then restore it
 #Link: https://youtu.be/WLkPJNwg528
 
-print("help!")
